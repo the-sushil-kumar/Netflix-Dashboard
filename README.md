@@ -51,7 +51,7 @@
     📁 Format: CSV / Excel
 
  Screenshot
-      [Dashboard Preview](https://github.com/the-sushil-kumar/Netflix-Dashboard/blob/main/Netflix%20Dasboard.png)
+      ![Dashboard Preview](https://github.com/the-sushil-kumar/Netflix-Dashboard/blob/main/Netflix%20Dasboard.png)
 
 
 
